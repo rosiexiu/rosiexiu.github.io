@@ -10,8 +10,8 @@ redirect_from:
 
 Hey there! My name is Rosie Xiu. I'm a second-year Master's student from  [UCLA Language and Literacy Research Group](https://langlit.gseis.ucla.edu/). My research interests include Learning Analytics, Language Development, Math Education, Bilingualism, and Online Education. I am very fortunate to be advised by [Prof. Alison Bailey](https://seis.ucla.edu/faculty-and-research/faculty-directory/alison-bailey) from [UCLA’s Human Development and Psychology Department](https://seis.ucla.edu/departments-and-degrees/department-of-education/human-development-and-psychology-division).
 
-I am applying for the PhD program for 2024 Fall. View my [Curriculum Vitae](../xiul.github.io/files/Curriculum_Vitae.pdf) for detailed academic and research information.
-Contact: [Email](mailto:xiul@g.ucla.edu) | [Wechat](../xiul.github.io/images/wechat.png) 
+I am applying for the PhD program for 2024 Fall. View my [Curriculum Vitae](../files/Curriculum_Vitae.pdf) for detailed academic and research information.
+Contact: [Email](mailto:xiul@g.ucla.edu) | [Wechat](../images/wechat.png) 
 
 
 My background and history:
