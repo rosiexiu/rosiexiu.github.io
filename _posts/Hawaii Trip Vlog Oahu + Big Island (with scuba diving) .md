@@ -1,6 +1,6 @@
 ---
-title: 'Blog Post number 4'
-date: 2015-08-14
+title: 'Hawaii Trip Vlog Oahu + Big Island (with scuba diving) '
+date: September 24th 2022
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
