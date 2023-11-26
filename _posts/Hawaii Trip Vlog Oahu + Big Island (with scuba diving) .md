@@ -1,20 +1,11 @@
 ---
 title: 'Hawaii Trip Vlog Oahu + Big Island (with scuba diving) '
 date: September 24th 2022
-permalink: /posts/2012/08/blog-post-4/
+permalink: <iframe src="//player.bilibili.com/player.html?aid=515931798&bvid=BV1cg411e72U&cid=842892082&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Hawaii
+  - scuba diving
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
-Headings are cool
-======
 
-You can have many headings
-======
-
-Aren't headings cool?
-------
