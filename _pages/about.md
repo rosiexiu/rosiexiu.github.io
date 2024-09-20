@@ -15,12 +15,12 @@ I took my Master in [UCLA Language and Literacy Research Group](https://langlit.
 View my [Curriculum Vitae](https://docs.google.com/document/d/18wU46aTDOiGAj-UjcnPtay2OQEViQHBT/edit?usp=sharing&ouid=104801285337597032684&rtpof=true&sd=true) for detailed academic and research information.
 Contact: Email: lxiu@usc.edu | [Wechat](images/wechat.png) 
 
-Publications:
+Publications
 ======
 Xiu, L. (2024). [Exploring the Approaches to Learning of Bilingual Students in Online Upper Elementary Mathematics Classes: A Mixed-Methods Investigation](https://search.library.ucla.edu/openurl/01UCS_LAL/01UCS_LAL:UCLA?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&genre=dissertations&sid=ProQ:ProQuest+Dissertations+%26+Theses+Global&atitle=&title=Exploring+the+Approaches+to+Learning+of+Bilingual+Students+in+Online+Upper+Elementary+Mathematics+Classes%3A+A+Mixed-Methods+Investigation&issn=&date=2024-01-01&volume=&issue=&spage=&au=Xiu%2C+Le&isbn=9798382819907&jtitle=&btitle=&rft_id=info:eric/&rft_id=info:doi/) (Publication Number 31329773) [M.A., University of California, Los Angeles]. Dissertations & Theses @ University of California; ProQuest Dissertations & Theses A&I; ProQuest Dissertations & Theses Global. United States -- California. https://www.proquest.com/dissertations-theses/exploring-approaches-learning-bilingual-students/docview/3066745859/se-2?accountid=14512
 
 
-Positionality Statement:
+Positionality Statement
 ======
 Growing up in a cross-cultural milieu, I navigated my early education in China, embracing its traditional values and education system from Pre-K to Grade 8. In 2015, I transitioned to the U.S. educational system, where I’ve spent nearly ten years immersed in its complexities. My journey began as a foreign exchange student in Utah’s public school system, which was funded by the U.S. government. I later completed my high school education at a Catholic private school in Connecticut.
 
