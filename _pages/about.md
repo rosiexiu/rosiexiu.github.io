@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! My name is Le Rosie Xiu. I am a Ph.D. student with a concertration in Educational Psychology at the University of Southern California (USC) Rossier School of Education. I serve as a research assistant at the Center for Generative AI & Society and is advised by [Dr. Stephen Aguilar](https://rossier.usc.edu/faculty-research/directory/stephenaguilar). My research interests are AI Literacy Development, GenAI & EdTech in Education, Bilingual Learners(BLLs), Learning Analytics, Digital Equity. 
+Hey there! My name is Le Rosie Xiu. I am a Ph.D. student with a concertration in Educational Psychology at the University of Southern California (USC) Rossier School of Education. I serve as a research assistant at the Center for Generative AI & Society and is advised by [Dr. Stephen Aguilar](https://rossier.usc.edu/faculty-research/directory/stephenaguilar). My research interests are AI Literacy Development, GenAI & EdTech in Education, Bilingual Learner(BL), Learning Analytics, Digital Equity. 
 
 I obatined my Bachelor of Arts (B.A.) degree at University of Washington in Creative Writing and Education. Following my undergraduate degree, I pursued the Master of Arts (M.A.) in Human Development and Psychology in [UCLA Language and Literacy Research Group](https://langlit.gseis.ucla.edu/), advised by [Prof. Alison Bailey](https://seis.ucla.edu/faculty-and-research/faculty-directory/alison-bailey) from [UCLA’s Human Development and Psychology Department](https://seis.ucla.edu/departments-and-degrees/department-of-education/human-development-and-psychology-division).
 
