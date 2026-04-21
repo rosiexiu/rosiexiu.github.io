@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. researcher in Educational Psychology at the **USC Rossier School of Education**, studying how people learn with and from AI. My work sits at the intersection of **learning science, AI literacy, and data-driven research** — with a focus on how AI tools can be designed to support diverse learners equitably.
+I'm a Ph.D. researcher in Educational Psychology at the **USC Rossier School of Education** and [USC Center for Generative AI and Society](https://live-usc-research.pantheonsite.io/news/2020/07/center-for-generative-ai-and-society/), studying how people learn with and from AI. My work sits at the intersection of **learning science, AI literacy, and data-driven research** with a focus on how AI tools can be designed to support diverse learners equitably.
 
-I am advised by [Dr. Stephen Aguilar](https://rossier.usc.edu/faculty-research/directory/stephenaguilar) at the [USC Center for Generative AI & Society](https://aigensociety.usc.edu/) and co-advised by [Dr. Erika Patall](https://rossier.usc.edu/faculty-research/directory/erikapatall). I am also completing an **Applied Data Science certificate at USC**, combining research expertise with computational methods.
+I am advised by [Dr. Stephen Aguilar](https://rossier.usc.edu/faculty-research/directory/stephenaguilar) at the [USC Center for Generative AI & Society](https://aigensociety.usc.edu/) and co-advised by [Dr. Erika Patall](https://rossier.usc.edu/faculty-research/directory/erika-patall). I am also completing an **Applied Data Science certificate at USC**, combining research expertise with computational methods.
 
-**Research Interests:** AI Literacy Development · GenAI & EdTech in Education · Learning Analytics · Digital Equity · Bilingual Learners
+**Research Interests:** AI Literacy Development · GenAI & EdTech in Education · Educational Data Science · Distance Learning · Bilingual Learners
 
 **Methods:** SEM · IRT · Multilevel Modeling · Regression · Mixed Methods · Python · R · Stata
 
@@ -19,13 +19,9 @@ I am advised by [Dr. Stephen Aguilar](https://rossier.usc.edu/faculty-research/d
 
 ## Current Projects
 
-**WISE Multi-Country Teacher Study** — Co-led statistical analyses of 2,000+ K-12 teacher survey responses across 40+ constructs (AI literacy, attitudes, ethics, access) in the US, India, Qatar, Colombia, and the Philippines. Co-authored policy reports with WISE and USC.
-
-**Systematic Literature Review** — Instructor-led GenAI interventions vs. unstructured student-initiated use in post-secondary education.
+**USC Internal Research Grant (2025–2026)** — Understanding cross-national differences in K–12 teachers' generative AI adoption: US and China.
 
 **Meta-Analysis** — Prosocial STEM interventions and learning outcomes.
-
-**USC Internal Research Grant (2025–2026)** — Understanding cross-national differences in K–12 teachers' generative AI adoption: US and China.
 
 ---
 
