@@ -1,40 +1,45 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hey there! My name is Le Rosie Xiu. I am a Ph.D. student with a concertration in Educational Psychology at the University of Southern California (USC) Rossier School of Education. I serve as a research assistant at the Center for Generative AI & Society and is advised by [Dr. Stephen Aguilar](https://rossier.usc.edu/faculty-research/directory/stephenaguilar). My research interests are AI Literacy Development, GenAI & EdTech in Education, Bilingual Learner(BL), Learning Analytics, Digital Equity. 
+I'm a Ph.D. researcher in Educational Psychology at the **USC Rossier School of Education**, studying how people learn with and from AI. My work sits at the intersection of **learning science, AI literacy, and data-driven research** — with a focus on how AI tools can be designed to support diverse learners equitably.
 
-I obatined my Bachelor of Arts (B.A.) degree at University of Washington in Creative Writing and Education. Following my undergraduate degree, I pursued the Master of Arts (M.A.) in Human Development and Psychology in [UCLA Language and Literacy Research Group](https://langlit.gseis.ucla.edu/), advised by [Prof. Alison Bailey](https://seis.ucla.edu/faculty-and-research/faculty-directory/alison-bailey) from [UCLA’s Human Development and Psychology Department](https://seis.ucla.edu/departments-and-degrees/department-of-education/human-development-and-psychology-division).
+I am advised by [Dr. Stephen Aguilar](https://rossier.usc.edu/faculty-research/directory/stephenaguilar) at the [USC Center for Generative AI & Society](https://aigensociety.usc.edu/) and co-advised by [Dr. Erika Patall](https://rossier.usc.edu/faculty-research/directory/erikapatall). I am also completing an **Applied Data Science certificate at USC**, combining research expertise with computational methods.
 
-View my [Curriculum Vitae](https://docs.google.com/document/d/18wU46aTDOiGAj-UjcnPtay2OQEViQHBT/edit?usp=sharing&ouid=104801285337597032684&rtpof=true&sd=true) for detailed academic and research information.
-Contact: Email: lxiu@usc.edu | [Wechat](images/wechat.png) 
+**Research Interests:** AI Literacy Development · GenAI & EdTech in Education · Learning Analytics · Digital Equity · Bilingual Learners
 
-Publications
-======
-Xiu, L. (2024). [Exploring the Approaches to Learning of Bilingual Students in Online Upper Elementary Mathematics Classes: A Mixed-Methods Investigation](https://search.library.ucla.edu/openurl/01UCS_LAL/01UCS_LAL:UCLA?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&genre=dissertations&sid=ProQ:ProQuest+Dissertations+%26+Theses+Global&atitle=&title=Exploring+the+Approaches+to+Learning+of+Bilingual+Students+in+Online+Upper+Elementary+Mathematics+Classes%3A+A+Mixed-Methods+Investigation&issn=&date=2024-01-01&volume=&issue=&spage=&au=Xiu%2C+Le&isbn=9798382819907&jtitle=&btitle=&rft_id=info:eric/&rft_id=info:doi/) (Publication Number 31329773) [M.A., University of California, Los Angeles]. Dissertations & Theses @ University of California; ProQuest Dissertations & Theses A&I; ProQuest Dissertations & Theses Global. United States -- California. https://www.proquest.com/dissertations-theses/exploring-approaches-learning-bilingual-students/docview/3066745859/se-2?accountid=14512
+**Methods:** SEM · IRT · Multilevel Modeling · Regression · Mixed Methods · Python · R · Stata
 
+---
 
-Positionality Statement
-======
-Growing up in a cross-cultural milieu, I navigated my early education in China, embracing its traditional values and education system from Pre-K to Grade 8. In 2015, I transitioned to the U.S. educational system, where I’ve spent nearly ten years immersed in its complexities. My journey began as a foreign exchange student in Utah’s public school system, which was funded by the U.S. government. I later completed my high school education at a Catholic private school in Connecticut.
+## Current Projects
 
-This shift between these educational environments—Chinese private school, American public school, and American private school—was more than a simple change of location; it was an exploration of cultural and ideological differences. China, which is a homogeneous country, education there was deeply structured and collective-focused, with academic scores serving as the primary indicator of student success. These scores not only measured individual achievement but also determined a student’s place within the group. Despite the competitive nature of the system, I benefited greatly from the Chinese education system’s rigorous, foundational teaching style, which emphasized logical reasoning, problem-solving, and a stable foundation in general education.
+**WISE Multi-Country Teacher Study** — Co-led statistical analyses of 2,000+ K-12 teacher survey responses across 40+ constructs (AI literacy, attitudes, ethics, access) in the US, India, Qatar, Colombia, and the Philippines. Co-authored policy reports with WISE and USC.
 
-When I moved to the United States in 2015, I encountered a different educational philosophy. My experience as a foreign exchange student in Utah’s public school system introduced me to a more individualistic, exploratory learning environment, where students were encouraged to question, debate, and express their critical opinions. Success in this system was measured through creativity, critical thinking, and self-advocacy, not just standardized test scores. The challenge of balancing these two cultural identities has deeply influenced my learning philosophy. On one hand, the structured, knowledge-based foundation from my Chinese education instilled in me a disciplined work ethic and a methodical approach to learning. On the other hand, my U.S. education fostered a sense of curiosity and openness to diverse perspectives.
+**Systematic Literature Review** — Instructor-led GenAI interventions vs. unstructured student-initiated use in post-secondary education.
 
-For my bachelors and master’s studies, I majored in Creative Writing, Education and Psychology. This academic foundation provided me with a deep understanding and creativity in literacy development, educational theories, curriculum content, particularly how learning frameworks shape cognitive growth. As I considered the relationship between research and practice, the position as the teacher or the learner, I began to engage more closely with students as an educator, recognizing the importance of bridging theoretical knowledge with real-world application.
-Over the past three years, I gained valuable experience as an online math teacher during the pandemic and started my role as a researcher in the Educational Psychology Field. And, due to my past experiences in learning two languages throughout my educational journey, as I recognize myself as a Bilingual Learner(BL), I was able to work extensively with bilingual Mandarin-English speaking students in California which allowed me to apply principles of Culturally Responsive Teaching (CRT), developed by scholars like Geneva Gay and Gloria Ladson-Billings. CRT emphasizes creating inclusive, affirming educational environments that honor students’ cultural and linguistic backgrounds, helping them feel seen and respected in the learning process. In my practice, this approach meant not only adapting materials to be more accessible but also integrating examples and methods that connected with students’ cultural contexts. 
+**Meta-Analysis** — Prosocial STEM interventions and learning outcomes.
 
-This hands-on experience with students revealed a potential divergence between my research interests and the immediate needs of my participants. While teaching online, I witnessed firsthand how educational technology—through the institution's self-invented teaching platform—can enhance student engagement. Later, in 2021 to 2022, I observed how Generative AI(GenAI) as an educational technology tool can empower teachers to deliver more dynamic and personalized curricula and also facilitate students for more self-directed learning. While my research centers around the applications of GenAI to enhance education in various ways (for instance, ‘pedagogical enhancement’, ‘specialized training and practices’, ‘writing assistance and productivity’, ‘professional skills and development’, an ‘interdisciplinary learning tool’) , my BL students often face more practical challenges—such as navigating language barriers, managing access to technology, and coping with the isolation of virtual learning. These experiences have told me the importance of ensuring that my research not only contributes to the research field of GenAI but also addresses the tangible, day-to-day realities that students face. More broadly, this highlights the critical issue of digital equity nowadays, which remains a central concern in creating inclusive educational environments with this tool. In the context of GenAI in education, I’m framing digital equity as a fundamental issue that goes beyond basic access to technology and includes students' ability to meaningfully use AI tools to enhance learning. Digital equity, as I see it, involves ensuring that all students, regardless of socioeconomic status, geographic location, or prior technological experience, have equal access to GenAI tools and receive adequate support to use them effectively in educational settings. This includes not only access to devices and reliable internet but also providing necessary digital literacy skills and resources that enable students to understand, engage with, and benefit from AI-driven learning experiences. 
+**USC Internal Research Grant (2025–2026)** — Understanding cross-national differences in K–12 teachers' generative AI adoption: US and China.
 
-I frame digital equity primarily around user readiness and AI literacy development, focusing on ensuring that all students have the digital literacy skills needed to effectively engage with AI tools. In this framework, digital equity isn't just about access to AI technology but about preparing students to interact with it meaningfully. Drawing on Self-Determination Theory (SDT), I believe digital equity should not only provide access but also foster students’ autonomy, competence, and relatedness in AI usage. This involves equipping students with skills such as critical thinking, AI-specific digital literacy, and the confidence to question and evaluate AI outputs. My focus on AI literacy development includes fostering competencies in understanding AI functionalities, interpreting AI-generated content, and responsibly integrating these tools into academic and real-world tasks.
+---
 
-In addition, Social Cognitive Theory (SCT) supports this focus on AI literacy by emphasizing the importance of observational learning and self-efficacy in digital environments. Through SCT, I aim to ensure that students not only learn through direct engagement with AI tools but also by observing others effectively using AI in various contexts, fostering an environment where students can build their confidence in using AI responsibly. 
+## Background
 
-Thus, my research interests are AI literacy development, GenAI & Edtech in Education, Bilingual Learner(BL), Learning Analytics, and Digital Equity. 
+**Ph.D., Educational Psychology** — USC Rossier School of Education (2022–Expected 2028)
+
+**M.A., Human Development and Psychology** — UCLA (2022–2024)
+Thesis: *Approaches to Learning of Bilingual Students in Online Upper Elementary Mathematics Classes*
+
+**B.A., Creative Writing & Education** — University of Washington (2018–2022)
+
+---
+
+## Contact
+
+[lxiu@usc.edu](mailto:lxiu@usc.edu) · [LinkedIn](https://www.linkedin.com/in/rosiexiu) · [Google Scholar](https://scholar.google.com/citations?user=W9Wtyo8AAAAJ) · [GitHub](https://github.com/rosiexiu)

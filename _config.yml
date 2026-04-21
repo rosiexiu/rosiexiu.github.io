@@ -1,121 +1,61 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
 locale                   : "en-US"
-title                    : "Le Rosie Xiu/Personal Homepage"
+title                    : "Rosie Xiu"
 title_separator          : "-"
-name                     : &name "Le Xiu"
-description              : &description "personal desc"
-url                      : https://rosiexiu.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+name                     : &name "Rosie Xiu"
+description              : &description "Ph.D. Researcher in Educational Psychology at USC. AI in Education · Learning Analytics · Mixed Methods."
+url                      : https://rosiexiu.com
+baseurl                  : ""
 repository               : "rosiexiu/rosiexiu.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+teaser                   :
+breadcrumbs              : false
 words_per_minute         : 160
 future                   : false
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+read_more                : "disabled"
+talkmap_link             : false
 
-# SEO Related
+comments:
+  provider               :
+
+atom_feed:
+  path                   :
+
+# SEO
 google_site_verification :
 bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
-facebook:
   username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+og_image                 :
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+  type                   : Person
+  name                   : Rosie Xiu
+  links:
+    - "https://www.linkedin.com/in/rosiexiu"
+    - "https://github.com/rosiexiu"
+    - "https://scholar.google.com/citations?user=W9Wtyo8AAAAJ"
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
-
+  provider               :
 
 # Site Author
 author:
-  name             : "Le Rosie Xiu"
+  name             : "Rosie Xiu"
   avatar           : "lele.png"
-  bio              : "Pronounce: She/her/her<br>What’s past is prologue. "
+  bio              : "Ph.D. Researcher · Educational Psychology · USC<br>AI in Education · Learning Analytics · Mixed Methods"
   location         : "Los Angeles, California"
-  employer         :
-  pubmed           :
-  googlescholar    : 
+  employer         : "USC Rossier School of Education"
+  googlescholar    : "https://scholar.google.com/citations?user=W9Wtyo8AAAAJ"
   email            : "lxiu@usc.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "rosiexiu"
-  google_plus      :
-  keybase          :
-  instagram        : "roro1sland"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "rosiexiu"
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-  
+  uri              :
+  researchgate     :
+  orcid            :
+  twitter          :
+  instagram        :
 
 # Reading Files
 include:
@@ -152,14 +92,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -171,7 +109,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
 
 # Collections
 collections:
@@ -188,10 +125,8 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-
 # Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -199,64 +134,52 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
+      comments: false
+      share: false
+      related: false
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _teaching
   - scope:
       path: ""
       type: teaching
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # _publications
+      share: false
   - scope:
       path: ""
       type: publications
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # _portfolio
+      share: false
   - scope:
       path: ""
       type: portfolio
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
-  # _talks
+      share: false
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
+  style: compressed
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+timezone: America/Los_Angeles
 
 # Plugins
 plugins:
@@ -265,7 +188,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
@@ -273,38 +195,15 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-
 # Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
 
 # HTML Compression
-# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
