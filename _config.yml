@@ -1,8 +1,8 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Rosie Xiu"
+title                    : "Rosie Le Xiu"
 title_separator          : "-"
-name                     : &name "Rosie Xiu"
+name                     : &name "Rosie Le Xiu"
 description              : &description "Ph.D. Researcher in Educational Psychology at USC. AI in Education · Learning Analytics · Mixed Methods."
 url                      : https://rosiexiu.com
 baseurl                  : ""
@@ -30,7 +30,7 @@ twitter:
 og_image                 :
 social:
   type                   : Person
-  name                   : Rosie Xiu
+  name                   : Rosie Le Xiu
   links:
     - "https://www.linkedin.com/in/rosiexiu"
     - "https://github.com/rosiexiu"
@@ -42,7 +42,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rosie Xiu"
+  name             : "Rosie Le Xiu"
   avatar           : "lele.png"
   bio              : "Ph.D. Researcher · Educational Psychology · USC<br>AI in Education · Learning Analytics · Mixed Methods"
   location         : "Los Angeles, California"
