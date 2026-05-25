@@ -11,7 +11,7 @@ I am a Ph.D. researcher in Educational Psychology at the **USC Rossier School of
 
 I am advised by [Dr. Stephen Aguilar](https://rossier.usc.edu/faculty-research/directory/stephenaguilar) and co-advised by [Dr. Erika Patall](https://rossier.usc.edu/faculty-research/directory/erika-patall). Alongside my doctoral work, I am completing an **Applied Data Science certificate at USC**, which supports a methodological orientation that combines quantitative modeling with computational approaches.
 
-**Research Interests:** AI Literacy Development · GenAI & EdTech in Post-Secondary Education · Educational Data Science · Learning Analytics · Digital Equity · Bilingual Learners
+**Research Interests:** Teacher Adoption of AI · Bilingual Learners · Distance Learning · Mixed Methods
 
 **Methods:** Structural Equation Modeling · Item Response Theory · Multilevel Modeling · Regression · Mixed Methods · Python · R · Stata
 
