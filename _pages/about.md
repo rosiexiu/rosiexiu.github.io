@@ -19,6 +19,8 @@ I am advised by [Dr. Stephen Aguilar](https://rossier.usc.edu/faculty-research/d
 
 ## Selected Publications
 
+**Xiu, R. L., Aguilar, S. J., Macías, A. J., Xing, Y., Al-Sulaiti, R., Junjunia, M., & Jebril, S. T. (2026).** An exploratory cross-national study of K-12 teachers' generative AI literacy and classroom enactment. *Education Sciences, 16*(5), 811. [https://doi.org/10.3390/educsci16050811](https://doi.org/10.3390/educsci16050811)
+
 **Aguilar, S., Xiu, R. L., Junjunia, M., Al-Sulaiti, R., & Talha-Jebril, S. (2025).** Perceptions and pathways to AI integration. *WISE & USC Center for Generative AI & Society.* [PDF](https://www.wise-qatar.org/app/uploads/2025/11/wise-x-usc-perceptions-and-pathways-final.pdf)
 
 **Aguilar, S. J., Nye, B., Swartout, W., Macias, A., Xing, Y., & Xiu, R. L. (2025).** How students and teachers worldwide are adapting to AI. *OSF Preprints.* [https://doi.org/10.35542/osf.io/wr6n3_v1](https://doi.org/10.35542/osf.io/wr6n3_v1)
