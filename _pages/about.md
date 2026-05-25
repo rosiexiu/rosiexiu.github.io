@@ -41,28 +41,28 @@ I am advised by [Dr. Stephen Aguilar](https://rossier.usc.edu/faculty-research/d
 
 ## Current Projects
 
-**WISE Multi-Country Teacher Study** — Co-led analyses of 2,000+ K-12 teacher survey responses across 40+ constructs (AI literacy, attitudes, ethics, access) spanning the US, India, Qatar, Colombia, and the Philippines.
+**WISE Multi-Country Teacher Study**: Co-led analyses of 2,000+ K-12 teacher survey responses across 40+ constructs (AI literacy, attitudes, ethics, access) spanning the US, India, Qatar, Colombia, and the Philippines.
 
-**Systematic Literature Review** — Instructor-led GenAI interventions compared with unstructured student-initiated use in post-secondary education.
+**Systematic Literature Review**: Instructor-led GenAI interventions compared with unstructured student-initiated use in post-secondary education.
 
-**USC Internal Research Grant (2025–2026)** — Cross-national differences in K-12 teachers' generative AI adoption: United States and China.
+**USC Internal Research Grant (2025–2026)**: Cross-national differences in K-12 teachers' generative AI adoption: United States and China.
 
-**Meta-Analysis** — Prosocial STEM interventions and learning outcomes.
+**Meta-Analysis**: Prosocial STEM interventions and learning outcomes.
 
 ---
 
 ## Teaching
 
-**Instructor**, University of Southern California — Taught a graduate-level course on AI and learning technologies, exploring the design and evaluation of AI-augmented learning environments. Course themes included generative AI in education, ethical considerations and digital equity, cognitive load and AI scaffolding, and human-AI collaboration. (Fall 2026)
+**Instructor**, University of Southern California: Taught a graduate-level course on AI and learning technologies, exploring the design and evaluation of AI-augmented learning environments. Course themes included generative AI in education, ethical considerations and digital equity, cognitive load and AI scaffolding, and human-AI collaboration. (Fall 2026)
 
 ## Background
 
-**Ph.D., Educational Psychology** — USC Rossier School of Education (2022–Expected 2028)
+**Ph.D., Educational Psychology**: USC Rossier School of Education (2022–Expected 2028)
 
-**M.A., Human Development and Psychology** — UCLA (2022–2024)
+**M.A., Human Development and Psychology**: UCLA (2022–2024)
 Thesis: *Approaches to Learning of Bilingual Students in Online Upper Elementary Mathematics Classes*
 
-**B.A., Creative Writing & Education** — University of Washington (2018–2022)
+**B.A., Creative Writing & Education**: University of Washington (2018–2022)
 
 ---
 
