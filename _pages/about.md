@@ -51,6 +51,10 @@ I am advised by [Dr. Stephen Aguilar](https://rossier.usc.edu/faculty-research/d
 
 ---
 
+## Teaching
+
+**Instructor**, University of Southern California — Taught a graduate-level course on AI and learning technologies, exploring the design and evaluation of AI-augmented learning environments. Course themes included generative AI in education, ethical considerations and digital equity, cognitive load and AI scaffolding, and human-AI collaboration. (Fall 2025)
+
 ## Background
 
 **Ph.D., Educational Psychology** — USC Rossier School of Education (2022–Expected 2028)
